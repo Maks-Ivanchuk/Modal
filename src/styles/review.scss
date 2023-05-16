@@ -18,17 +18,18 @@ body {
 
 .header__logo {
 	cursor: pointer;
-	}
+}
 
 .header__title {
 	padding-top: 40px;
 	font-size: 60px;
 	line-height: 80px;
 	text-transform: capitalize;
-	}
+}
 
 .section {
-	padding: 64px 0px;	
+	padding: 64px 0px;
+	height: 1500px; //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 }
 
 .section__title {
@@ -48,7 +49,7 @@ body {
 	color: $fontColor;
 	border-radius: 4px;
 	font-size: 14px;
-	line-height: 22px;	
+	line-height: 22px;
 }
 
 .button:hover {
